@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Composition function from Theorem 5.8 with Example 5.9
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Franco '
+    family-names: Barbanera
+    email: franco.barbanera@unict.it
+    affiliation: DMI - University of Catania
+  - given-names: Mariangiola
+    family-names: Dezani-Ciancaglini
+    email: dezani@di.unito.it
+    affiliation: Dip. Informatica - University of Torino
+repository-code: >-
+  https://github.com/francobarbanera/CompFunction-and-Example5.9/tree/main
+abstract: >-
+  Haskell definition for the composition function as
+  described in the proof of Th.5.8 with related datatypes
+  definitions. Formalisation of Example 5.8. 
+version: '1.0'
+date-released: '2024-01-14'
