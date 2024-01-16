@@ -12,15 +12,11 @@ authors:
     family-names: Barbanera
     email: franco.barbanera@unict.it
     affiliation: DMI - University of Catania
-  - given-names: Mariangiola
-    family-names: Dezani-Ciancaglini
-    email: dezani@di.unito.it
-    affiliation: Dip. Informatica - University of Torino
 repository-code: >-
   https://github.com/francobarbanera/CompFunction-and-Example5.9/tree/main
 abstract: >-
   Haskell definition for the composition function as
-  described in the proof of Th.5.8 with related datatypes
+  described in the proof of Th.5.8 with related datatype
   definitions. Formalisation of Example 5.8. 
 version: '1.0'
 date-released: '2024-01-14'
